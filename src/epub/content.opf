@@ -26,21 +26,20 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The History of Mr. Polly</dc:title>
 		<meta property="file-as" refines="#title">History of Mr. Polly, The</meta>
 		<dc:subject id="subject-1">Life change events -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/7308</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008106968</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This work by H. G. Wells was first published in 1910. In contrast to Wells’ early speculative fiction works like &lt;i&gt;The Time Machine&lt;/i&gt;, this is a comic novel set in the everyday world of the late Victorian and early Edwardian era in England. Despite the less than happy life-story of Mr. Polly, it is an amusing book, enlivened by Polly’s inventive attitude towards the English language.&lt;/p&gt;
 			&lt;p&gt;Alfred Polly’s mother dies when he is only seven, and he is brought up by his father and a stern aunt. He is indifferently educated, and leaves school in his early teens to be employed as a draper’s assistant. As the years pass, he finds himself more and more disenchanted with his occupation, but it is too late to change it. Eventually his father dies and leaves him a legacy which may be enough to set up in business for himself. He sets up his own shop in a small town and stumbles into an unhappy marriage. The business is not profitable, and in his middle-age, unhappy and dyspeptic, Mr. Polly comes up with an idea to bring an end to his troubles. Things, however, do not go as he planned, and lead to an unexpected result.&lt;/p&gt;
 			&lt;p&gt;Wells’ later work often displays his passion for social reform. Here, that passion is less obvious, but nevertheless he demonstrates his sympathy for middle-class people raised like Mr. Polly with but a poor education and trapped into either dead-end jobs or in failing retail businesses.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The History of Mr. Polly&lt;/i&gt; was well-received by critics at the time of publication and was subsequently made into both a film and two different BBC television serials.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7308</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.93688</dc:source>
