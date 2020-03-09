@@ -43,8 +43,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7308</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.93688</dc:source>
-		<meta property="se:word-count">70249</meta>
-		<meta property="se:reading-ease.flesch">73.98</meta>
+		<meta property="se:word-count">70257</meta>
+		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_History_of_Mr._Polly</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_the-history-of-mr-polly</meta>
 		<dc:creator id="author">H. G. Wells</dc:creator>
