@@ -33,6 +33,9 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106968</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">39</meta>
 		<dc:description id="description">A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This work by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt; was first published in 1910. In contrast to Wells’ early speculative fiction works like &lt;a href="https://standardebooks.org/ebooks/h-g-wells/the-time-machine"&gt;&lt;i&gt;The Time Machine&lt;/i&gt;&lt;/a&gt;, this is a comic novel set in the everyday world of the late Victorian and early Edwardian era in England. Despite the less than happy life-story of &lt;abbr&gt;Mr.&lt;/abbr&gt; Polly, it is an amusing book, enlivened by Polly’s inventive attitude towards the English language.&lt;/p&gt;
