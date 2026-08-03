@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/h-g-wells/the-history-of-mr-polly</dc:identifier>
 		<dc:date>2018-04-29T22:16:43Z</dc:date>
@@ -37,13 +37,13 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">39</meta>
-		<dc:description id="description">A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A middle-aged man in early Edwardian England finds himself despairing at his failed business and marriage, and takes a drastic step to escape—with unexpected results.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;This work by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt; was first published in 1910. In contrast to Wells’ early speculative fiction works like &lt;a href="https://standardebooks.org/ebooks/h-g-wells/the-time-machine"&gt;&lt;i&gt;The Time Machine&lt;/i&gt;&lt;/a&gt;, this is a comic novel set in the everyday world of the late Victorian and early Edwardian era in England. Despite the less than happy life-story of &lt;abbr&gt;Mr.&lt;/abbr&gt; Polly, it is an amusing book, enlivened by Polly’s inventive attitude towards the English language.&lt;/p&gt;
 			&lt;p&gt;Alfred Polly’s mother dies when he is only seven, and he is brought up by his father and a stern aunt. He is indifferently educated, and leaves school in his early teens to be employed as a draper’s assistant. As the years pass, he finds himself more and more disenchanted with his occupation, but it is too late to change it. Eventually his father dies and leaves him a legacy which may be enough to set up in business for himself. He sets up his own shop in a small town and stumbles into an unhappy marriage. The business is not profitable, and in his middle-age, unhappy and dyspeptic, &lt;abbr&gt;Mr.&lt;/abbr&gt; Polly comes up with an idea to bring an end to his troubles. Things, however, do not go as he planned, and lead to an unexpected result.&lt;/p&gt;
 			&lt;p&gt;Wells’ later work often displays his passion for social reform. Here, that passion is less obvious, but nevertheless he demonstrates his sympathy for middle-class people raised like &lt;abbr&gt;Mr.&lt;/abbr&gt; Polly with but a poor education and trapped into either dead-end jobs or in failing retail businesses.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The History of &lt;abbr&gt;Mr.&lt;/abbr&gt; Polly&lt;/i&gt; was well-received by critics at the time of publication and was subsequently made into both a film and two different &lt;abbr&gt;BBC&lt;/abbr&gt; television serials.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7308</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.93688</dc:source>
